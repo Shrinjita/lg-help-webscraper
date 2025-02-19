@@ -1,0 +1,6 @@
+selenium
+pandas
+requests
+beautifulsoup4
+webdriver-manager
+google-colab-selenium
